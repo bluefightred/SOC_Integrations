@@ -18,7 +18,7 @@ Please feel free to change configurations according to your actual environment a
 
 ## 2. Enhnaced Wazuh and TheHive integration script
 
-The Wazuh and TheHive integration script shared here is an enhanced version of the orginal version published on the Wazuh website. 
+The Wazuh and TheHive integration script shared here is an enhanced version of the orginal version published on the [Wazuh website](https://wazuh.com/blog/using-wazuh-and-thehive-for-threat-protection-and-incident-response/). 
 
 Major enhancement included:
   1. Enhanced error handling throughout
