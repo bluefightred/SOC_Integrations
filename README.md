@@ -1,5 +1,5 @@
 # SOC_Integrations
-Sharing of Enhanced Wazuh TheHive integrations, as well as a working SOC docker-compose configuration.
+Sharing of enhanced Wazuh TheHive integrations, as well as a working SOC docker-compose configuration.
 
 ## 1. Docker-Compose file
 
